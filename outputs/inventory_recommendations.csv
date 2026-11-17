@@ -1,0 +1,6 @@
+sku_id,supplier_name,inventory_action,supplier_action
+ENG-001,AutoParts India,Review replenishment of 1120 units for ENG-001.,Review supplier delivery and fulfilment performance.
+BRK-002,Prime Components,Stock is currently above the reorder point for BRK-002. Continue monitoring.,Observed delivery performance acceptable in the available sample.
+BAT-003,Global Battery Co,Review replenishment of 1790 units for BAT-003.,Review supplier delivery and fulfilment performance.
+TYR-004,RoadGrip Suppliers,Stock is currently above the reorder point for TYR-004. Continue monitoring.,Observed delivery performance acceptable in the available sample.
+FLT-005,FilterTech,Review replenishment of 545 units for FLT-005.,Observed delivery performance acceptable in the available sample.
