@@ -1,0 +1,6 @@
+sku_id,component_name,plant_id,on_hand,on_order,backorders,unit_price,inventory_value
+ENG-001,Engine Component,PLANT-01,650,50,20,5000,3250000
+BRK-002,Brake Component,PLANT-01,400,40,0,1200,480000
+BAT-003,Battery Component,PLANT-01,700,20,0,3500,2450000
+TYR-004,Tyre Component,PLANT-01,550,35,0,1800,990000
+FLT-005,Filter Component,PLANT-01,300,45,0,450,135000
